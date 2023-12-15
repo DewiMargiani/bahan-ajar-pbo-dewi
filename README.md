@@ -52,3 +52,33 @@ Pada kode diatas merupakan Event handler yang menangani peristiwa ketika penggun
 <img width="178" alt="image" src="https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/6faae5fb-7861-4f0c-b10d-28c2386a41f6">
 
 Pada kode diatas merupakan kode yang akan  menjalankan aplikasi Flask menggunakan SocketIO. Jika aplikasi dijalankan langsung (bukan diimpor sebagai modul), maka mode debug akan diaktifkan.
+
+## Hasil Tampilan Program
+![WhatsApp Image 2023-12-14 at 22 08 05](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/6b935d5b-2629-4e18-a457-6f569b2dc9b2)
+
+Penjelasan :
+
+![WhatsApp Image 2023-12-14 at 22 08 05 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/d411c0be-0b85-400f-8bf3-84aa105dede9)
+
+Penjelasan :
+
+![WhatsApp Image 2023-12-14 at 22 08 05 (2)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/1f06419f-9b67-4fb4-bc58-cfb23d2551e9)
+
+Penjelasan :
+
+![WhatsApp Image 2023-12-14 at 22 08 06](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/7ae69436-43e5-467d-af37-26740688664b)
+
+Penjelasan :
+
+![WhatsApp Image 2023-12-14 at 22 08 06 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/86a9a09e-a42c-47f2-a409-9bb9bc6f9096)
+
+Penjelasan :
+
+![WhatsApp Image 2023-12-14 at 22 08 06 (2)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/5262e33b-8843-43c0-a3a6-d52b2220c85f)
+
+Penjelasan :
+
+
+
+
+
