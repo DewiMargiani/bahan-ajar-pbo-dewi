@@ -8,53 +8,7 @@ Diajeng Noviana Sari (G1F022065)
 ### Program yang kami jalankan adalah Server ruang obrolan menggunakan Python: Menggunakan ide soket dan threading, skrip ini membantu menyiapkan Ruang Obrolan sederhana yang memungkinkan beberapa klien untuk terhubung. Kode ini bekerja dengan ide soket dan threading.
 
 ## Source Code
-from flask import Flask, render_template, request, redirect, url_for 
-
-from flask_socketio import SocketIO, join_room, leave_room 
-
-app = Flask(__name__)
-
-app.config['SECRET_KEY'] = 'ajengduarrr!'
-
-socketio = SocketIO(app)
-
-chat_rooms = {}
-
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-@app.route('/chat', methods=['POST'])
-
-def chat():
-
-username = request.form.get('username')
-room = request.form.get('room')
-return render_template('chat.html', username=username, room=room)
-
-@socketio.on('joined')
-def handle_joined(data):
-    username = data['username']
-    room = data['room']
-    join_room(room)
-    socketio.emit('status', {'msg': username + ' has entered the room.'}, room=room)
-
-@socketio.on('send_message')
-def handle_send_message(data):
-    username = data['username']
-    message = data['message']
-    room = data['room']
-    socketio.emit('receive_message', {'username': username, 'message': message}, room=room)
-
-@socketio.on('left')
-def handle_left(data):
-    username = data['username']
-    room = data['room']
-    leave_room(room)
-    socketio.emit('status', {'msg': username + ' has left the room.'}, room=room)
-
-if __name__ == '__main__':
-    socketio.run(app, debug=True)
+<img width="540" alt="image" src="https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/163c6261-90d9-4a3e-8223-4dd1a1dc84dc">
 
 ## Penjelasan Source Code
 _from flask import Flask, render_template, request, redirect, url_for_
