@@ -56,7 +56,7 @@ Pada kode diatas merupakan kode yang akan  menjalankan aplikasi Flask menggunaka
 ## Hasil Tampilan Program
 #### 1.Tampilan Pertama
 ![WhatsApp Image 2023-12-14 at 22 08 05](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/6b935d5b-2629-4e18-a457-6f569b2dc9b2)
-Penjelasan :
+#### Penjelasan :
 
 Tampilan program server ruang obrolan dalam gambar yang Anda kirim menunjukkan halaman selamat datang untuk ruang obrolan. Halaman ini menampilkan pesan selamat datang untuk pengguna yang baru masuk ke ruang obrolan, serta daftar pengguna yang saat ini berada di ruang obrolan.
 
@@ -68,40 +68,50 @@ Pada bagian bawah halaman, terdapat kolom untuk memasukkan pesan. Pengguna dapat
 
 #### 2. Tampilan Lanjutan
 ![WhatsApp Image 2023-12-14 at 22 08 05 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/d411c0be-0b85-400f-8bf3-84aa105dede9)
-Penjelasan :
+#### Penjelasan :
 
 Tampilan diatas menunjukkan sebuah formulir yang meminta pengguna untuk memasukkan nama, dan nama ruang obrolan. Formulir ini digunakan untuk mendaftar ke ruang obrolan.
 
 Pada bagian atas formulir, terdapat label "Nama". Pengguna harus memasukkan nama mereka di kolom yang disediakan. Kemudian pada gambar diatas Nama yang mendaftar adalah Dewi Margiani dan dengan nama ruang obrolan Proyek PBO.
 
-Setelah melakukan pengisian form dapat dilanjutkan dengan klik tombol Join Chat agar dapat bergabung kedalam ruang obrolan Proyek PBO.
+Setelah melakukan pengisian form dapat dilanjutkan dengan klik tombol "Join Chat" agar dapat bergabung kedalam ruang obrolan Proyek PBO.
 
 #### 3. Tampilan Lanjutan
 ![WhatsApp Image 2023-12-14 at 22 08 05 (2)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/1f06419f-9b67-4fb4-bc58-cfb23d2551e9)
-Penjelasan :
+#### Penjelasan :
+
 Tampilan diatas menunjukkan sebuah formulir yang meminta pengguna untuk memasukkan nama, dan nama ruang obrolan. Formulir ini digunakan untuk mendaftar ke ruang obrolan.
 
 Pada bagian atas formulir, terdapat label "Nama". Pengguna harus memasukkan nama mereka di kolom yang disediakan. Kemudian pada gambar diatas Nama yang mendaftar adalah Idzni Sholekha dan dengan nama ruang obrolan Proyek PBO.
 
-Setelah melakukan pengisian form dapat dilanjutkan dengan klik tombol Join Chat agar dapat bergabung kedalam ruang obrolan Proyek PBO.
+Setelah melakukan pengisian form dapat dilanjutkan dengan klik tombol "Join Chat" agar dapat bergabung kedalam ruang obrolan Proyek PBO.
 
 
 #### 4. Tampilan Ruang Obrolan Dari User Diajeng
 ![WhatsApp Image 2023-12-14 at 22 08 06](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/7ae69436-43e5-467d-af37-26740688664b)
+#### Penjelasan :
 
-Penjelasan :
+Tampilan ruang obrolan dari user Diajeng menunjukkan bahwa dia baru saja masuk ke ruang obrolan. Hal ini terlihat dari pesan selamat datang yang bertuliskan "Welcome, Diajeng Noviana Sari!"
+Di bawah pesan selamat datang, terdapat daftar pengguna yang saat ini berada di ruang obrolan.
+
+Pada gambar ini, terlihat bahwa Diajeng baru saja mengirim pesan pertamanya ke ruang obrolan. Pesan tersebut bertuliskan "hallo gess apa kabarr". Pesan ini ditujukan kepada semua pengguna yang saat ini berada di ruang obrolan. Dan disambung obrolan seperti pada gambar diatas.
+
+Kemudian terdapat kolom untuk memasukkan pesan yang digunakan  pengguna untuk mengirim pesan ke pengguna lain di ruang obrolan. Dan tombol "Send" untuk mengirim pesan yang telah diketik oleh pengguna.
 
 #### 5. Tampilan Ruang Obrolan Dari User Idzni
 ![WhatsApp Image 2023-12-14 at 22 08 06 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/86a9a09e-a42c-47f2-a409-9bb9bc6f9096)
+#### Penjelasan :
 
-Penjelasan :
+Tampilan ruang obrolan dari user Idzni menunjukkan bahwa dia baru saja masuk ke ruang obrolan. Hal ini terlihat dari pesan selamat datang yang bertuliskan "Welcome, Idzni Sholekha!"
+
+Pada bagian bawah halaman, terdapat kolom untuk memasukkan pesan. Pengguna dapat menggunakan kolom ini untuk mengirim pesan ke pengguna lain di ruang obrolan. Untuk mengirim pesan, pengguna cukup mengetikkan pesan dan kemudian menekan tombol "Send".
 
 #### 6. Tampilan Ruang Obrolan Dari User Dewi
 ![WhatsApp Image 2023-12-14 at 22 08 06 (2)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/5262e33b-8843-43c0-a3a6-d52b2220c85f)
+#### Penjelasan :
 
-Penjelasan :
+Tampilan ruang obrolan dari user Dewi menunjukkan bahwa dia baru saja masuk ke ruang obrolan. Hal ini terlihat dari pesan selamat datang yang bertuliskan "Welcome, Dewi Margiani!"
 
+Pada gambar ini, terlihat bahwa Dewi baru saja mengirim pesan pertamanya ke ruang obrolan. Pesan tersebut bertuliskan "Baik". Pesan ini ditujukan kepada semua pengguna yang saat ini berada di ruang obrolan.
 
-
-
-
+Kemudian untuk bagian bawah halaman, terdapat kolom untuk memasukkan pesan. Pengguna dapat menggunakan kolom ini untuk mengirim pesan ke pengguna lain di ruang obrolan. Untuk mengirim pesan, pengguna cukup mengetikkan pesan dan kemudian menekan tombol "Send".
