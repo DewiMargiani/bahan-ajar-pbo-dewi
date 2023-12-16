@@ -54,7 +54,7 @@ Pada kode diatas merupakan Event handler yang menangani peristiwa ketika penggun
 Pada kode diatas merupakan kode yang akan  menjalankan aplikasi Flask menggunakan SocketIO. Jika aplikasi dijalankan langsung (bukan diimpor sebagai modul), maka mode debug akan diaktifkan.
 
 ## Hasil Tampilan Program
-### 1.Tampilan Pertama
+#### 1.Tampilan Pertama
 ![WhatsApp Image 2023-12-14 at 22 08 05](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/6b935d5b-2629-4e18-a457-6f569b2dc9b2)
 Penjelasan :
 
@@ -62,31 +62,41 @@ Tampilan program server ruang obrolan dalam gambar yang Anda kirim menunjukkan h
 
 Pada bagian atas halaman, terdapat pesan selamat datang yang bertuliskan "Welcome, Diajeng Noviana Sari!" Pesan ini menunjukkan bahwa pengguna dengan nama "Diajeng Noviana Sari" baru saja masuk ke ruang obrolan.
 
-Di bawah pesan selamat datang, terdapat daftar pengguna yang saat ini berada di ruang obrolan. Pada gambar ini, daftar pengguna berisi tiga nama, yaitu:
-
-Diajeng Noviana Sari (baru saja masuk)
-Dewi Margiani (baru saja masuk)
-Idzni Sholekha (baru saja masuk)
+Di bawah pesan selamat datang, terdapat daftar pengguna yang saat ini berada di ruang obrolan. Pada gambar ini, daftar pengguna berisi tiga nama, yaitu: Diajeng Noviana Sari (baru saja masuk), Dewi Margiani (baru saja masuk), Idzni Sholekha (baru saja masuk).
 
 Pada bagian bawah halaman, terdapat kolom untuk memasukkan pesan. Pengguna dapat menggunakan kolom ini untuk mengirim pesan ke pengguna lain di ruang obrolan. Untuk mengirim pesan, pengguna cukup mengetikkan pesan dan kemudian menekan tombol "Send".
 
 #### 2. Tampilan Lanjutan
 ![WhatsApp Image 2023-12-14 at 22 08 05 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/d411c0be-0b85-400f-8bf3-84aa105dede9)
-
 Penjelasan :
 
+Tampilan diatas menunjukkan sebuah formulir yang meminta pengguna untuk memasukkan nama, dan nama ruang obrolan. Formulir ini digunakan untuk mendaftar ke ruang obrolan.
+
+Pada bagian atas formulir, terdapat label "Nama". Pengguna harus memasukkan nama mereka di kolom yang disediakan. Kemudian pada gambar diatas Nama yang mendaftar adalah Dewi Margiani dan dengan nama ruang obrolan Proyek PBO.
+
+Setelah melakukan pengisian form dapat dilanjutkan dengan klik tombol Join Chat agar dapat bergabung kedalam ruang obrolan Proyek PBO.
+
+#### 3. Tampilan Lanjutan
 ![WhatsApp Image 2023-12-14 at 22 08 05 (2)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/1f06419f-9b67-4fb4-bc58-cfb23d2551e9)
-
 Penjelasan :
+Tampilan diatas menunjukkan sebuah formulir yang meminta pengguna untuk memasukkan nama, dan nama ruang obrolan. Formulir ini digunakan untuk mendaftar ke ruang obrolan.
 
+Pada bagian atas formulir, terdapat label "Nama". Pengguna harus memasukkan nama mereka di kolom yang disediakan. Kemudian pada gambar diatas Nama yang mendaftar adalah Idzni Sholekha dan dengan nama ruang obrolan Proyek PBO.
+
+Setelah melakukan pengisian form dapat dilanjutkan dengan klik tombol Join Chat agar dapat bergabung kedalam ruang obrolan Proyek PBO.
+
+
+#### 4. Tampilan Ruang Obrolan Dari User Diajeng
 ![WhatsApp Image 2023-12-14 at 22 08 06](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/7ae69436-43e5-467d-af37-26740688664b)
 
 Penjelasan :
 
+#### 5. Tampilan Ruang Obrolan Dari User Idzni
 ![WhatsApp Image 2023-12-14 at 22 08 06 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/86a9a09e-a42c-47f2-a409-9bb9bc6f9096)
 
 Penjelasan :
 
+#### 6. Tampilan Ruang Obrolan Dari User Dewi
 ![WhatsApp Image 2023-12-14 at 22 08 06 (2)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/5262e33b-8843-43c0-a3a6-d52b2220c85f)
 
 Penjelasan :
