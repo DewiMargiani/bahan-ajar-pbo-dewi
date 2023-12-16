@@ -54,11 +54,23 @@ Pada kode diatas merupakan Event handler yang menangani peristiwa ketika penggun
 Pada kode diatas merupakan kode yang akan  menjalankan aplikasi Flask menggunakan SocketIO. Jika aplikasi dijalankan langsung (bukan diimpor sebagai modul), maka mode debug akan diaktifkan.
 
 ## Hasil Tampilan Program
-### 1 Tampilan Pertama
+### 1.Tampilan Pertama
 ![WhatsApp Image 2023-12-14 at 22 08 05](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/6b935d5b-2629-4e18-a457-6f569b2dc9b2)
 Penjelasan :
-	Tampilan program server ruang obrolan dalam gambar yang Anda kirim menunjukkan halaman selamat datang untuk ruang obrolan. Halaman ini menampilkan pesan selamat datang untuk pengguna yang baru masuk ke ruang obrolan, serta daftar pengguna yang saat ini berada di ruang obrolan.
 
+Tampilan program server ruang obrolan dalam gambar yang Anda kirim menunjukkan halaman selamat datang untuk ruang obrolan. Halaman ini menampilkan pesan selamat datang untuk pengguna yang baru masuk ke ruang obrolan, serta daftar pengguna yang saat ini berada di ruang obrolan.
+
+Pada bagian atas halaman, terdapat pesan selamat datang yang bertuliskan "Welcome, Diajeng Noviana Sari!" Pesan ini menunjukkan bahwa pengguna dengan nama "Diajeng Noviana Sari" baru saja masuk ke ruang obrolan.
+
+Di bawah pesan selamat datang, terdapat daftar pengguna yang saat ini berada di ruang obrolan. Pada gambar ini, daftar pengguna berisi tiga nama, yaitu:
+
+Diajeng Noviana Sari (baru saja masuk)
+Dewi Margiani (baru saja masuk)
+Idzni Sholekha (baru saja masuk)
+
+Pada bagian bawah halaman, terdapat kolom untuk memasukkan pesan. Pengguna dapat menggunakan kolom ini untuk mengirim pesan ke pengguna lain di ruang obrolan. Untuk mengirim pesan, pengguna cukup mengetikkan pesan dan kemudian menekan tombol "Send".
+
+#### 2. Tampilan Lanjutan
 ![WhatsApp Image 2023-12-14 at 22 08 05 (1)](https://github.com/DewiMargiani/bahan-ajar-pbo-dewi/assets/150019055/d411c0be-0b85-400f-8bf3-84aa105dede9)
 
 Penjelasan :
